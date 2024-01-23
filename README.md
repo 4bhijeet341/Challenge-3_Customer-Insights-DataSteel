@@ -1,9 +1,10 @@
-# Challenge-3_Customer-Insights-DataSteel-
+# Challenge-3_Customer-Insights-DataSteel
 
-**Introduction**
+**Introduction**:
+
 Just conquered a thrilling SQL challenge by SteelData, delving into the fascinating realm of Customer Insights! Utilizing the robust combo of PostgreSQL and PgAdmin4, I tackled a series of 10 insightful questions exploring the depths of customer data. Check out my solution in the GitHub repository.
 
-**Questions**
+**Questions**:
 
 1. What are the names of all the countries in the country table?
 2. What is the total number of customers in the customers table?
@@ -17,7 +18,7 @@ Just conquered a thrilling SQL challenge by SteelData, delving into the fascinat
 10. What is the average age of customers who made orders in the 'vitamins' product category?
 
 
-**Table**
+**Table**:
 
 ![image](https://github.com/4bhijeet341/Challenge-3_Customer-Insights-DataSteel-/assets/150332865/69554efb-6102-4372-b878-70c03925b36a)
 
@@ -27,6 +28,7 @@ Just conquered a thrilling SQL challenge by SteelData, delving into the fascinat
 
 ![image](https://github.com/4bhijeet341/Challenge-3_Customer-Insights-DataSteel-/assets/150332865/d230075f-05c2-4c66-a1e6-e8921e59ba47)
 
-**Conclusion**
+**Conclusion**:
+
 The challenge demanded an intermediate level of SQL proficiency, encouraging data enthusiasts to attempt the questions independently before seeking solutions. Embracing such challenges is a great way to enhance one's skills, and I highly recommend fellow enthusiasts to take on similar exercises. Special thanks to SteelData for providing this insightful challenge—onto the next one now! 🚀 #SQLChallenge #CustomerInsights #DataEnthusiast #SteelDataChallenge
 
